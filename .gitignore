@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML model files
+*.keras
+*.h5
+
+# Environment variables
+.env
