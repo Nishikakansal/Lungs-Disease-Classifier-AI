@@ -26,4 +26,9 @@ Python, TensorFlow, Keras, OpenCV, NumPy, Scikit-learn, Matplotlib
 3. Run: python app.py
 
 ## Team
-Built as part of Bennett University coursework (SCSET Department)
+Built as a Team of 2 and part of Bennett University coursework (SCSET Department)
+
+## Model Weights
+The trained DenseNet121 model weights (.keras file) are not included 
+in this repo due to file size. 
+Contact: nishikakansal@gmail.com to request access.
